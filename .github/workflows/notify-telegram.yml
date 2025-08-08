@@ -17,16 +17,8 @@ jobs:
           ISSUE_AUTHOR: ${{ github.event.issue.user.login }}
           ISSUE_TITLE: ${{ github.event.issue.title }}
           ISSUE_URL: ${{ github.event.issue.html_url }}
-          ISSUE_TAG: ${{ github.event.issue.labels[0].name || '' }}
         run: |
-          # Set ISSUE_TAG to empty string if missing, no brackets if empty
-          if [ -z "$ISSUE_TAG" ]; then
-            TAG_PART=""
-          else
-            TAG_PART=" $ISSUE_TAG"
-          fi
-
-          MESSAGE="[$REPO_NAME]$TAG_PART - $ISSUE_AUTHOR\n[$ISSUE_TITLE]($ISSUE_URL)"
+          MESSAGE="[$REPO_NAME] - $ISSUE_AUTHOR\n[$ISSUE_TITLE]($ISSUE_URL)"
 
           curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
             -d chat_id="${TELEGRAM_CHAT_ID}" \
