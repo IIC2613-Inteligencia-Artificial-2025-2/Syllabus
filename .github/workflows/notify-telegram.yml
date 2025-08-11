@@ -18,7 +18,9 @@ jobs:
           ISSUE_TITLE: ${{ github.event.issue.title }}
           ISSUE_URL: ${{ github.event.issue.html_url }}
         run: |
-          MESSAGE="[$REPO_NAME] - $ISSUE_AUTHOR\n[$ISSUE_TITLE]($ISSUE_URL)"
+          MESSAGE="NUEVA ISSUE!!
+            $ISSUE_AUTHOR 
+            $ISSUE_TITLE ($ISSUE_URL)"
 
           curl -s -X POST "https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}/sendMessage" \
             -d chat_id="${TELEGRAM_CHAT_ID}" \
