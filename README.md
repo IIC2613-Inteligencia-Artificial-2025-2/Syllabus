@@ -10,6 +10,7 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
   - [2025-2](#2025-2)
   - [Tabla de contenidos](#tabla-de-contenidos)
   - [Correo Oficial del Curso](#correo-oficial-del-curso)
+  - [Correo Ayudante de Bienestar](#correo-ayudante-de-bienestar)
   - [Ayudantías](#ayudantías)
   - [Equipo](#equipo)
   - [Evaluación](#evaluaciones)
@@ -18,7 +19,12 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
   - [Programa y administración](#programa-y-administración)
   - [Política de integridad académica](#política-de-integridad-académica)
 
+## Correo Ayudante de Bienestar
+Cualquier problema personal, no duden en escribir!
+bienestar.iic2613@gmail.com
+ 
 ## Correo Oficial del Curso
+Cualquier duda, consulta, sugerencia, problema, etc. que puedan tener, feliz de que nos escriban aquí!
 iic2613.ing@uc.cl
 
 
