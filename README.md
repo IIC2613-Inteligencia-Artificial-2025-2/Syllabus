@@ -9,6 +9,7 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 - [IIC2613 - Inteligencia Artificial](#IIC2613---Inteligencia-Artificial-🧠🖥️)
   - [2025-2](#2025-2)
   - [Tabla de contenidos](#tabla-de-contenidos)
+  - [Correo Oficial del Curso](#correo-oficial-del-curso)
   - [Ayudantías](#ayudantías)
   - [Equipo](#equipo)
   - [Evaluación](#evaluaciones)
@@ -16,6 +17,10 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
     - [Tareas](#tareas)
   - [Programa y administración](#programa-y-administración)
   - [Política de integridad académica](#política-de-integridad-académica)
+
+## Correo Oficial del Curso
+iic2613.ing@uc.cl
+
 
 ## Ayudantías
 *Las fechas y temáticas de las ayudantías están sujetas a cambio a lo largo del semestre*
@@ -41,21 +46,22 @@ Bienvenidos al Syllabus del curso de Inteligencia Artificial. En esta página po
 | -------------- | ------ | ---------------- | ----------- |
 | Jorge Baier                                | Profesor  | jabaier@ing.puc.cl | - |
 | Jocelyn Dunstan                            | Profesor  | - | - |
+| Amanda Sandoval Kuncar                     | Ayudante de Bienestar | bienestar.iic2613@gmail.com | - |
 | Ignacio Antonio Villanueva Domínguez       | Ayudante Coordinador | ignacio.villanueva@uc.cl | [@ignaciovilla](https://github.com/ignaciovilla) |
-| Amanda Sandoval Kuncar                     | Ayudante de Bienestar | amanda.sandoval@uc.cl | - |
-| - | Ayudante |  |  |
-| - | Ayudante |  |  |
-| - | Ayudante |  |  |
-| - | Ayudante |  |  |
-| - | Ayudante |  |  |
-| - | Ayudante |  |  |
-| - | Ayudante |  |  |
-| - | Ayudante |  |  |
-| - | Ayudante |  |  |
-| - | Ayudante |  |  |
-| - | Ayudante |  |  |
-| - | Ayudante |  |  |
-| - | Ayudante |  |  |
+| Trinidad Sofía Bravo De La Cruz            | Ayudante | - | [@tsbravo](https://github.com/tsbravo) |
+| Pablo Andrés González Calderón             | Ayudante | - | [@Pablo-Gonzalez-Calderon](https://github.com/Pablo-Gonzalez-Calderon) |
+| Benito Palacios Medeiros                   | Ayudante | - | [@benitopalaciosm](https://github.com/benitopalaciosm) |
+| Ignacio Benjamín Garrido Bobadilla         | Ayudante | - | [@ibgarrido](https://github.com/ibgarrido) |
+| Fernando Nicolás Arévalo Estremadoyro      | Ayudante | - | [@F0326](https://github.com/F0326) |
+| Felipe Ignacio Espinoza Santibáñez         | Ayudante | - | [@FelipeEspinozaS](https://github.com/FelipeEspinozaS) |
+| Daniel Esteban Eduardo Alegria Toledo      | Ayudante | - | [@Dealegria](https://github.com/Dealegria) |
+| Juan José Alonso Lecaros                   | Ayudante | - | [@jalonsoluc](https://github.com/jalonsoluc) |
+| Carlos Felipe Olguín Coloma                | Ayudante | - | [@CarlangaUC](https://github.com/CarlangaUC) |
+| Claudia Andrea González Inostroza          | Ayudante | - | [@clangoi](https://github.com/clangoi) |
+| Bernardita María De Jesús Alliende Infante | Ayudante | - | [@balliende](https://github.com/balliende) |
+| Anaís Aracely Montanares Valdés            | Ayudante | - | [@anais-mv](https://github.com/anais-mv) |
+| Gabriel Eduardo Segovia Bustos             | Ayudante | - | [@GSegov1a](https://github.com/GSegov1a) |
+
 
 
 
